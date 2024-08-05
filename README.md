@@ -4,42 +4,44 @@
 </div>
 
 
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a data scientist.
-- 📫 How to reach me: [Facebook - @hopopyuya](https://www.facebook.com/share/i6bEovHGqPfJLH7p/?mibextid=LQQJ4d)
-<br>
+| Key         | Value                                             |
+|-------------|---------------------------------------------------|
+| Name        | Yuya Abe                                      |
+| Date of Birth | June 15, 1995                                  |
+| Occupation  | Data Scientist                                    |
+| Education   | Graduated from Waseda University |
 
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,mysql,docker,github,flask,html,css,js" />
-<br>
+
+<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+
+<div>
+
+|言語|業務経験|
+|---|---|
+|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
+|<img alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />|3年|
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|3年|
+
+</div>
+
+<div>
+
+|フレームワーク|業務経験|
+|---|---|
+|<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />|3年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|3年|
+|<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat" />|3年|
+
+</div>
+</div>
 
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hopopyuya&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopopyuya&theme=vue-dark&layout=compact" />
 </div>
-
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
