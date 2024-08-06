@@ -20,23 +20,19 @@
 
 <div>
 
-|言語|業務経験|
+|Key|Value|
 |---|---|
 |<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|3年|
 |<img alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />|3年|
-|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|3年|
-
-</div>
-
-<div>
-
-|フレームワーク|業務経験|
-|---|---|
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />|1年|
+|<img alt="Redash" src="https://img.shields.io/badge/-Reash-FFFFFF.svg?logo=Redash&style=popout" />|3年|
+|<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-FFFFFF.svg?logo=tableau&style=flat-square" />|1年|
 |<img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />|3年|
 |<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|3年|
-|<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat" />|3年|
+|<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat" />|1年|
 
 </div>
+
 </div>
 
 
