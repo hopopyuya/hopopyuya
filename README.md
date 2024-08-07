@@ -37,7 +37,16 @@
 
 
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=hopopyuya&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopopyuya&theme=vue-dark&layout=compact" />
+
+<div align="left">
+
+  <!-- GitHub Contribution Grid Snake -->
+  ![](https://raw.githubusercontent.com/hopopyuya/hopopyuya/output/github-contribution-grid-snake.svg)
+
+  <!-- GitHub Stats -->
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=hopopyuya&theme=vue-dark&show_icons=true" />
+  
+  <!-- Top Languages -->
+  <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopopyuya&theme=vue-dark&layout=compact" />
+
 </div>
